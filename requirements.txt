@@ -1,0 +1,4 @@
+elevenlabs==0.2.26
+replicate==0.13.0
+streamlit==1.26.0
+watchdog==3.0.0
