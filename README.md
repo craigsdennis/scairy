@@ -21,6 +21,10 @@ source ./bin/activate
 python -m pip install -r requirements.txt
 ```
 
-## 
+Clone your voices on ElevenLabs and update the [GREETERS](./app.py) dictionary.
 
+## Get scAIRy
 
+```bash
+python -m streamlit run app.py
+```
